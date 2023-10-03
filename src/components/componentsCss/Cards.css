@@ -1,0 +1,15 @@
+
+.cardsContainer {    
+    display: flex;
+    justify-content:center;
+    gap: 3%
+    
+
+}
+.card{
+    margin: auto;
+}
+
+.cardContainer {
+    padding: 2px 16px;
+  }
